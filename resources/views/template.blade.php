@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
     <head>
-        <title>latihan1</title>
+        <title>latihan wira</title>
 </head>
 <link href="https://fonts.googleapis.com/css2?family=Nunito:wght@400;60
 0;700&display=swap" rel="stylesheet">
